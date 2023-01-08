@@ -1,0 +1,1143 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "13FC044B-DC29-46EF-BC1D-7C3DDF19162C"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "66408C54-7923-45B4-AB63-3FC0D7CC3C53"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Territorios/Data/DatabaseManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "176"
+            endingLineNumber = "176"
+            landmarkName = "deleteHouse(house:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "66408C54-7923-45B4-AB63-3FC0D7CC3C53 - 4714d936933095b2"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Territorios.DataBaseManager.deleteHouse(house: Territorios.House) -&gt; Swift.Bool"
+                  moduleName = "Territorios"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Jose/Library/Mobile%20Documents/com~apple~CloudDocs/Hacking%20w:%20Swift%20(SwiftUI)/Territorios/Territorios/Data/DatabaseManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "159"
+                  endingLineNumber = "159"
+                  offsetFromSymbolStart = "240">
+               </Location>
+               <Location
+                  uuid = "66408C54-7923-45B4-AB63-3FC0D7CC3C53 - f2397aef73f10523"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Territorios.House) -&gt; Swift.Bool in Territorios.DataBaseManager.deleteHouse(house: Territorios.House) -&gt; Swift.Bool"
+                  moduleName = "Territorios"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Jose/Library/Mobile%20Documents/com~apple~CloudDocs/Hacking%20w:%20Swift%20(SwiftUI)/Territorios/Territorios/Data/DatabaseManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "159"
+                  endingLineNumber = "159"
+                  offsetFromSymbolStart = "68">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "29CA2EEA-1E5E-44DA-939A-590E9500B6A5"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Territorios/Data/DatabaseManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "177"
+            endingLineNumber = "177"
+            landmarkName = "deleteHouse(house:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "1F1C14ED-D9FD-40A3-A6A8-03FCC94789C2"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Territorios/Data/DatabaseManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "180"
+            endingLineNumber = "180"
+            landmarkName = "deleteHouse(house:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "99C95C06-391D-47D8-A03D-501D92F0047F"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Territorios/TerritoriosApp.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "19"
+            endingLineNumber = "19"
+            landmarkName = "body"
+            landmarkType = "24">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "A4C0B3F2-3263-4C1B-8365-79317A6F684C"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Territorios/TerritoriosApp.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "20"
+            endingLineNumber = "20"
+            landmarkName = "body"
+            landmarkType = "24">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "1158C154-C1EC-4298-9052-467DE271EF79"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Territorios/API_Requests/LoadData.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "95"
+            endingLineNumber = "95"
+            landmarkName = "loadData(onError:onFinish:)"
+            landmarkType = "9">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "B512FA1D-1FFC-4190-9DE1-3DF25280AC21"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Territorios/API_Requests/LoadData.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "96"
+            endingLineNumber = "96"
+            landmarkName = "loadData(onError:onFinish:)"
+            landmarkType = "9">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "3D97C649-CD39-4AF1-9A8E-C0D5059131D1"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Territorios/API_Requests/LoadData.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "107"
+            endingLineNumber = "107"
+            landmarkName = "loadData(onError:onFinish:)"
+            landmarkType = "9">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "8AC0C2F4-7A42-46C2-86BC-4A190EFCC11E"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Territorios/API_Requests/LoadData.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "118"
+            endingLineNumber = "118"
+            landmarkName = "loadData(onError:onFinish:)"
+            landmarkType = "9">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "4FA29DEF-338F-4FD7-B29B-5C4AC22184D4"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Territorios/API_Requests/LoadData.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "106"
+            endingLineNumber = "106"
+            landmarkName = "loadData(onError:onFinish:)"
+            landmarkType = "9">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "B7ACD46E-94B3-4E2E-B65E-8443356785BF"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Territorios/API_Requests/LoadData.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "94"
+            endingLineNumber = "94"
+            landmarkName = "loadData(onError:onFinish:)"
+            landmarkType = "9">
+            <Locations>
+               <Location
+                  uuid = "B7ACD46E-94B3-4E2E-B65E-8443356785BF - e6904caf6b4d8c96"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Territorios.loadData(onError: (Swift.Error) -&gt; (), onFinish: () -&gt; ()) -&gt; ()"
+                  moduleName = "Territorios"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Jose/Library/Mobile%20Documents/com~apple~CloudDocs/Hacking%20w:%20Swift%20(SwiftUI)/Territorios/Territorios/API_Requests/LoadData.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "94"
+                  endingLineNumber = "94"
+                  offsetFromSymbolStart = "972">
+               </Location>
+               <Location
+                  uuid = "B7ACD46E-94B3-4E2E-B65E-8443356785BF - c8e94158af7d1c19"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #2 (Swift.Array&lt;Territorios.Territory&gt;) -&gt; () in Territorios.loadData(onError: (Swift.Error) -&gt; (), onFinish: () -&gt; ()) -&gt; ()"
+                  moduleName = "Territorios"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Jose/Library/Mobile%20Documents/com~apple~CloudDocs/Hacking%20w:%20Swift%20(SwiftUI)/Territorios/Territorios/API_Requests/LoadData.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "44">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "E9E30C58-513A-40F5-A4FB-9DE6274E4583"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Territorios/API_Requests/LoadData.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "105"
+            endingLineNumber = "105"
+            landmarkName = "loadData(onError:onFinish:)"
+            landmarkType = "9">
+            <Locations>
+               <Location
+                  uuid = "E9E30C58-513A-40F5-A4FB-9DE6274E4583 - e6904caf6b4d8a2d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Territorios.loadData(onError: (Swift.Error) -&gt; (), onFinish: () -&gt; ()) -&gt; ()"
+                  moduleName = "Territorios"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Jose/Library/Mobile%20Documents/com~apple~CloudDocs/Hacking%20w:%20Swift%20(SwiftUI)/Territorios/Territorios/API_Requests/LoadData.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "105"
+                  endingLineNumber = "105"
+                  offsetFromSymbolStart = "1440">
+               </Location>
+               <Location
+                  uuid = "E9E30C58-513A-40F5-A4FB-9DE6274E4583 - b999c85fcc447fed"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #4 (Swift.Array&lt;Territorios.House&gt;) -&gt; () in Territorios.loadData(onError: (Swift.Error) -&gt; (), onFinish: () -&gt; ()) -&gt; ()"
+                  moduleName = "Territorios"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Jose/Library/Mobile%20Documents/com~apple~CloudDocs/Hacking%20w:%20Swift%20(SwiftUI)/Territorios/Territorios/API_Requests/LoadData.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "15"
+                  endingLineNumber = "15"
+                  offsetFromSymbolStart = "44">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "A9F44B5C-CAA7-4F43-8278-3ECFA9663AB7"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Territorios/API_Requests/LoadData.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "116"
+            endingLineNumber = "116"
+            landmarkName = "loadData(onError:onFinish:)"
+            landmarkType = "9">
+            <Locations>
+               <Location
+                  uuid = "A9F44B5C-CAA7-4F43-8278-3ECFA9663AB7 - e6904caf6b4d8bb8"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Territorios.loadData(onError: (Swift.Error) -&gt; (), onFinish: () -&gt; ()) -&gt; ()"
+                  moduleName = "Territorios"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Jose/Library/Mobile%20Documents/com~apple~CloudDocs/Hacking%20w:%20Swift%20(SwiftUI)/Territorios/Territorios/API_Requests/LoadData.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "116"
+                  endingLineNumber = "116"
+                  offsetFromSymbolStart = "1880">
+               </Location>
+               <Location
+                  uuid = "A9F44B5C-CAA7-4F43-8278-3ECFA9663AB7 - 2bb5548ad9e87b08"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #6 (Swift.Array&lt;Territorios.Visit&gt;) -&gt; () in Territorios.loadData(onError: (Swift.Error) -&gt; (), onFinish: () -&gt; ()) -&gt; ()"
+                  moduleName = "Territorios"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Jose/Library/Mobile%20Documents/com~apple~CloudDocs/Hacking%20w:%20Swift%20(SwiftUI)/Territorios/Territorios/API_Requests/LoadData.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "16"
+                  endingLineNumber = "16"
+                  offsetFromSymbolStart = "44">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "EB2324CC-A82D-46D3-BF17-38CABE243D04"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Territorios/Helpers/DataLoader.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "16"
+            endingLineNumber = "16"
+            landmarkName = "updateHouse(house:onResult:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "EB2324CC-A82D-46D3-BF17-38CABE243D04 - 3c15fb96272a5d8b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Territorios.DataLoader.updateHouse(house: Territorios.House, onResult: (Swift.Bool) -&gt; ()) -&gt; ()"
+                  moduleName = "Territorios"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Jose/Library/Mobile%20Documents/com~apple~CloudDocs/Hacking%20w:%20Swift%20(SwiftUI)/Territorios/Territorios/Helpers/DataLoader.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "16"
+                  endingLineNumber = "16"
+                  offsetFromSymbolStart = "64">
+               </Location>
+               <Location
+                  uuid = "EB2324CC-A82D-46D3-BF17-38CABE243D04 - 6890e6d2809cc9ae"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Bool) -&gt; () in Territorios.DataLoader.updateHouse(house: Territorios.House, onResult: (Swift.Bool) -&gt; ()) -&gt; ()"
+                  moduleName = "Territorios"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Jose/Library/Mobile%20Documents/com~apple~CloudDocs/Hacking%20w:%20Swift%20(SwiftUI)/Territorios/Territorios/Helpers/DataLoader.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "17"
+                  endingLineNumber = "17"
+                  offsetFromSymbolStart = "72">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "41177272-2EC1-4215-A2D7-BC8BEF2E8073"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Territorios/Helpers/DataLoader.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "33"
+            endingLineNumber = "33"
+            landmarkName = "uploadVisit(visit:onResult:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "41177272-2EC1-4215-A2D7-BC8BEF2E8073 - c6addf52c8177390"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Territorios.DataLoader.uploadVisit(visit: Territorios.Visit, onResult: (Swift.Bool) -&gt; ()) -&gt; ()"
+                  moduleName = "Territorios"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Jose/Library/Mobile%20Documents/com~apple~CloudDocs/Hacking%20w:%20Swift%20(SwiftUI)/Territorios/Territorios/Helpers/DataLoader.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "33"
+                  endingLineNumber = "33"
+                  offsetFromSymbolStart = "64">
+               </Location>
+               <Location
+                  uuid = "41177272-2EC1-4215-A2D7-BC8BEF2E8073 - 7be740afe44ec2b5"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Bool) -&gt; () in Territorios.DataLoader.uploadVisit(visit: Territorios.Visit, onResult: (Swift.Bool) -&gt; ()) -&gt; ()"
+                  moduleName = "Territorios"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Jose/Library/Mobile%20Documents/com~apple~CloudDocs/Hacking%20w:%20Swift%20(SwiftUI)/Territorios/Territorios/Helpers/DataLoader.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "34"
+                  endingLineNumber = "34"
+                  offsetFromSymbolStart = "72">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "1E52CE08-EC03-47B2-AEA7-504192303B56"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Territorios/Helpers/DataLoader.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "34"
+            endingLineNumber = "34"
+            landmarkName = "uploadVisit(visit:onResult:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "F412C641-76F0-428F-A54D-79E43FCFDF9F"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Territorios/Helpers/DataLoader.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "36"
+            endingLineNumber = "36"
+            landmarkName = "uploadVisit(visit:onResult:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "C308A874-5E33-4EB7-ADD1-A263948553BA"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Territorios/Helpers/DataLoader.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "17"
+            endingLineNumber = "17"
+            landmarkName = "updateHouse(house:onResult:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "263D0E9C-6258-4C54-9602-E69D39AF304B"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Territorios/Helpers/DataLoader.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "19"
+            endingLineNumber = "19"
+            landmarkName = "updateHouse(house:onResult:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "37FE80EF-BD77-4005-8E57-CFF61EFDFB48"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Territorios/Helpers/DataLoader.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "20"
+            endingLineNumber = "20"
+            landmarkName = "updateHouse(house:onResult:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "4BD34DE0-F670-450A-B94C-7A0FB549DDA9"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Territorios/Views/TerritoriesView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "31"
+            endingLineNumber = "31"
+            landmarkName = "body"
+            landmarkType = "24">
+            <Locations>
+               <Location
+                  uuid = "4BD34DE0-F670-450A-B94C-7A0FB549DDA9 - 6114630c01c2318e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Territorios.TerritoriesView.body.getter : some"
+                  moduleName = "Territorios"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Jose/Library/Mobile%20Documents/com~apple~CloudDocs/Hacking%20w:%20Swift%20(SwiftUI)/Territorios/Territorios/Views/TerritoriesView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "31"
+                  endingLineNumber = "31"
+                  offsetFromSymbolStart = "444">
+               </Location>
+               <Location
+                  uuid = "4BD34DE0-F670-450A-B94C-7A0FB549DDA9 - b68c28c677da71d9"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Territorios.Territory, Territorios.Territory) -&gt; Swift.Bool in Territorios.TerritoriesView.body.getter : some"
+                  moduleName = "Territorios"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Jose/Library/Mobile%20Documents/com~apple~CloudDocs/Hacking%20w:%20Swift%20(SwiftUI)/Territorios/Territorios/Views/TerritoriesView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "32"
+                  endingLineNumber = "32"
+                  offsetFromSymbolStart = "88">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "3C413A60-E688-480F-875D-215172D2FFC5"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Territorios/Views/LoadView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "32"
+            endingLineNumber = "32"
+            landmarkName = "body"
+            landmarkType = "24">
+            <Locations>
+               <Location
+                  uuid = "3C413A60-E688-480F-875D-215172D2FFC5 - e89cb4b11fe5d8fe"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #2 () -&gt; () in Territorios.LoadView.body.getter : some"
+                  moduleName = "Territorios"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Jose/Library/Mobile%20Documents/com~apple~CloudDocs/Hacking%20w:%20Swift%20(SwiftUI)/Territorios/Territorios/Views/LoadView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "32"
+                  endingLineNumber = "32"
+                  offsetFromSymbolStart = "488">
+               </Location>
+               <Location
+                  uuid = "3C413A60-E688-480F-875D-215172D2FFC5 - 33063ad665811ff"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Error) -&gt; () in closure #2 () -&gt; () in Territorios.LoadView.body.getter : some"
+                  moduleName = "Territorios"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Jose/Library/Mobile%20Documents/com~apple~CloudDocs/Hacking%20w:%20Swift%20(SwiftUI)/Territorios/Territorios/Views/LoadView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "33"
+                  endingLineNumber = "33"
+                  offsetFromSymbolStart = "56">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "A2F66EF0-766B-4233-8356-0529E770ED93"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Territorios/Views/LoadView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "36"
+            endingLineNumber = "36"
+            landmarkName = "body"
+            landmarkType = "24">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "6949238E-E626-473C-846C-B7CAB08A6DB8"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Territorios/Views/LoadView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "35"
+            endingLineNumber = "35"
+            landmarkName = "body"
+            landmarkType = "24">
+            <Locations>
+               <Location
+                  uuid = "6949238E-E626-473C-846C-B7CAB08A6DB8 - 33063ad66581039"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Error) -&gt; () in closure #2 () -&gt; () in Territorios.LoadView.body.getter : some"
+                  moduleName = "Territorios"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Jose/Library/Mobile%20Documents/com~apple~CloudDocs/Hacking%20w:%20Swift%20(SwiftUI)/Territorios/Territorios/Views/LoadView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "35"
+                  endingLineNumber = "35"
+                  offsetFromSymbolStart = "448">
+               </Location>
+               <Location
+                  uuid = "6949238E-E626-473C-846C-B7CAB08A6DB8 - c56c96b14a3ea36f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #2 () -&gt; () in closure #2 () -&gt; () in Territorios.LoadView.body.getter : some"
+                  moduleName = "Territorios"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Jose/Library/Mobile%20Documents/com~apple~CloudDocs/Hacking%20w:%20Swift%20(SwiftUI)/Territorios/Territorios/Views/LoadView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "36"
+                  endingLineNumber = "36"
+                  offsetFromSymbolStart = "28">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "20DB11CD-4522-461B-A6C5-65FF2255F169"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Territorios/API_Requests/LoadData.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "40"
+            endingLineNumber = "40"
+            landmarkName = "loadData(onError:onFinish:)"
+            landmarkType = "9">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "95BDBC21-B45A-47A1-BFE7-B169DE528572"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Territorios/API_Requests/LoadData.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "27"
+            endingLineNumber = "27"
+            landmarkName = "loadData(onError:onFinish:)"
+            landmarkType = "9">
+            <Locations>
+               <Location
+                  uuid = "95BDBC21-B45A-47A1-BFE7-B169DE528572 - 7167b14a27b5e26f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; () in Territorios.loadData(onError: (Swift.Error) -&gt; (), onFinish: () -&gt; ()) -&gt; ()"
+                  moduleName = "Territorios"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Jose/Library/Mobile%20Documents/com~apple~CloudDocs/Hacking%20w:%20Swift%20(SwiftUI)/Territorios/Territorios/API_Requests/LoadData.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "27"
+                  endingLineNumber = "27"
+                  offsetFromSymbolStart = "320">
+               </Location>
+               <Location
+                  uuid = "95BDBC21-B45A-47A1-BFE7-B169DE528572 - 237e02fba2bd9301"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Territorios.Territory) -&gt; () in closure #1 () -&gt; () in Territorios.loadData(onError: (Swift.Error) -&gt; (), onFinish: () -&gt; ()) -&gt; ()"
+                  moduleName = "Territorios"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Jose/Library/Mobile%20Documents/com~apple~CloudDocs/Hacking%20w:%20Swift%20(SwiftUI)/Territorios/Territorios/API_Requests/LoadData.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "29"
+                  endingLineNumber = "29"
+                  offsetFromSymbolStart = "120">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "709CF016-5CFA-4FFF-ABD6-202D730121D4"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Territorios/API_Requests/LoadData.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "29"
+            endingLineNumber = "29"
+            landmarkName = "loadData(onError:onFinish:)"
+            landmarkType = "9">
+            <Locations>
+               <Location
+                  uuid = "709CF016-5CFA-4FFF-ABD6-202D730121D4 - 237e02fba2bd9301"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Territorios.Territory) -&gt; () in closure #1 () -&gt; () in Territorios.loadData(onError: (Swift.Error) -&gt; (), onFinish: () -&gt; ()) -&gt; ()"
+                  moduleName = "Territorios"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Jose/Library/Mobile%20Documents/com~apple~CloudDocs/Hacking%20w:%20Swift%20(SwiftUI)/Territorios/Territorios/API_Requests/LoadData.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "29"
+                  endingLineNumber = "29"
+                  offsetFromSymbolStart = "120">
+               </Location>
+               <Location
+                  uuid = "709CF016-5CFA-4FFF-ABD6-202D730121D4 - 8eeffec82ed2afee"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Territorios.Territory) -&gt; Swift.Bool in closure #1 (Territorios.Territory) -&gt; () in closure #1 () -&gt; () in Territorios.loadData(onError: (Swift.Error) -&gt; (), onFinish: () -&gt; ()) -&gt; ()"
+                  moduleName = "Territorios"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Jose/Library/Mobile%20Documents/com~apple~CloudDocs/Hacking%20w:%20Swift%20(SwiftUI)/Territorios/Territorios/API_Requests/LoadData.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "29"
+                  endingLineNumber = "29"
+                  offsetFromSymbolStart = "68">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "A4A86B2F-7F09-4003-852D-B4D5CB3AA094"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Territorios/API_Requests/LoadData.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "31"
+            endingLineNumber = "31"
+            landmarkName = "loadData(onError:onFinish:)"
+            landmarkType = "9">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "C10C3062-CB4E-4BFF-BCBB-4C64606BA1ED"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Territorios/API_Requests/LoadData.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "33"
+            endingLineNumber = "33"
+            landmarkName = "loadData(onError:onFinish:)"
+            landmarkType = "9">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "0DF3DE56-22F3-4923-8BBA-3F8AB999DF60"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Territorios/API_Requests/LoadData.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "32"
+            endingLineNumber = "32"
+            landmarkName = "loadData(onError:onFinish:)"
+            landmarkType = "9">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "B5FA7235-5FD0-490B-A192-A2EF3987DFC2"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Territorios/API_Requests/LoadData.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "36"
+            endingLineNumber = "36"
+            landmarkName = "loadData(onError:onFinish:)"
+            landmarkType = "9">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "EA3829D3-6CF7-498B-AAAE-5A1C5C41001C"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Territorios/API_Requests/LoadData.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "35"
+            endingLineNumber = "35"
+            landmarkName = "loadData(onError:onFinish:)"
+            landmarkType = "9">
+            <Locations>
+               <Location
+                  uuid = "EA3829D3-6CF7-498B-AAAE-5A1C5C41001C - 237e02fba2bd925b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Territorios.Territory) -&gt; () in closure #1 () -&gt; () in Territorios.loadData(onError: (Swift.Error) -&gt; (), onFinish: () -&gt; ()) -&gt; ()"
+                  moduleName = "Territorios"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Jose/Library/Mobile%20Documents/com~apple~CloudDocs/Hacking%20w:%20Swift%20(SwiftUI)/Territorios/Territorios/API_Requests/LoadData.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "35"
+                  endingLineNumber = "35"
+                  offsetFromSymbolStart = "688">
+               </Location>
+               <Location
+                  uuid = "EA3829D3-6CF7-498B-AAAE-5A1C5C41001C - 237e02fba2bd925b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Territorios.Territory) -&gt; () in closure #1 () -&gt; () in Territorios.loadData(onError: (Swift.Error) -&gt; (), onFinish: () -&gt; ()) -&gt; ()"
+                  moduleName = "Territorios"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Jose/Library/Mobile%20Documents/com~apple~CloudDocs/Hacking%20w:%20Swift%20(SwiftUI)/Territorios/Territorios/API_Requests/LoadData.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "35"
+                  endingLineNumber = "35"
+                  offsetFromSymbolStart = "956">
+               </Location>
+               <Location
+                  uuid = "EA3829D3-6CF7-498B-AAAE-5A1C5C41001C - f818915c435ca8bd"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #2 (Territorios.Territory) -&gt; Swift.Bool in closure #1 (Territorios.Territory) -&gt; () in closure #1 () -&gt; () in Territorios.loadData(onError: (Swift.Error) -&gt; (), onFinish: () -&gt; ()) -&gt; ()"
+                  moduleName = "Territorios"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Jose/Library/Mobile%20Documents/com~apple~CloudDocs/Hacking%20w:%20Swift%20(SwiftUI)/Territorios/Territorios/API_Requests/LoadData.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "35"
+                  endingLineNumber = "35"
+                  offsetFromSymbolStart = "68">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "4FFC33DB-5C13-4CF4-9A58-FFAF5D9FF3A1"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Territorios/Data/DatabaseManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "31"
+            endingLineNumber = "31"
+            landmarkName = "getAllTerritories()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "F2944DF4-08FE-448E-8A9C-247C316FCA07"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Territorios/Data/DatabaseManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "32"
+            endingLineNumber = "32"
+            landmarkName = "getAllTerritories()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "43146576-3898-4603-8C14-A2B45B7B9920"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Territorios/Data/DatabaseManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "35"
+            endingLineNumber = "35"
+            landmarkName = "getAllTerritories()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "EC032984-AC54-4C6A-8CBD-6891E7A63E7E"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Territorios/Data/DatabaseManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "37"
+            endingLineNumber = "37"
+            landmarkName = "getAllTerritories()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "7AA28570-CB82-4D36-8582-658F3F670E90"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Territorios/Data/DatabaseManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "63"
+            endingLineNumber = "63"
+            landmarkName = "addTerritory(territory:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "3D886E57-C935-49B8-A5C1-064B884D0FAC"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Territorios/Data/DatabaseManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "65"
+            endingLineNumber = "65"
+            landmarkName = "addTerritory(territory:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "3D886E57-C935-49B8-A5C1-064B884D0FAC - b2beaaf6c03b7905"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Territorios.DataBaseManager.addTerritory(territory: Territorios.Territory) -&gt; Swift.Bool"
+                  moduleName = "Territorios"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Jose/Library/Mobile%20Documents/com~apple~CloudDocs/Hacking%20w:%20Swift%20(SwiftUI)/Territorios/Territorios/Data/DatabaseManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "65"
+                  endingLineNumber = "65"
+                  offsetFromSymbolStart = "448">
+               </Location>
+               <Location
+                  uuid = "3D886E57-C935-49B8-A5C1-064B884D0FAC - 19f3733bf18890ad"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #2 (Territorios.Territory) -&gt; Swift.Bool in Territorios.DataBaseManager.addTerritory(territory: Territorios.Territory) -&gt; Swift.Bool"
+                  moduleName = "Territorios"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Jose/Library/Mobile%20Documents/com~apple~CloudDocs/Hacking%20w:%20Swift%20(SwiftUI)/Territorios/Territorios/Data/DatabaseManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "65"
+                  endingLineNumber = "65"
+                  offsetFromSymbolStart = "64">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "30198EDC-236A-4A12-BFE9-C10C06028D31"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Territorios/Data/DatabaseManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "68"
+            endingLineNumber = "68"
+            landmarkName = "addTerritory(territory:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "35722C03-B5C6-43F6-A216-EA16DB063224"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Territorios/Data/DatabaseManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "67"
+            endingLineNumber = "67"
+            landmarkName = "addTerritory(territory:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "C02F3094-9FCE-43E4-AC54-208FF5621555"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Territorios/Data/DatabaseManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "66"
+            endingLineNumber = "66"
+            landmarkName = "addTerritory(territory:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "F816D953-4FD2-433D-8A5F-891E82A83A92"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Territorios/Data/DatabaseManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "64"
+            endingLineNumber = "64"
+            landmarkName = "addTerritory(territory:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "F816D953-4FD2-433D-8A5F-891E82A83A92 - b2beaaf6c03b7922"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Territorios.DataBaseManager.addTerritory(territory: Territorios.Territory) -&gt; Swift.Bool"
+                  moduleName = "Territorios"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Jose/Library/Mobile%20Documents/com~apple~CloudDocs/Hacking%20w:%20Swift%20(SwiftUI)/Territorios/Territorios/Data/DatabaseManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "64"
+                  endingLineNumber = "64"
+                  offsetFromSymbolStart = "252">
+               </Location>
+               <Location
+                  uuid = "F816D953-4FD2-433D-8A5F-891E82A83A92 - 69f3d7db6313685"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Territorios.Territory) -&gt; Swift.Bool in Territorios.DataBaseManager.addTerritory(territory: Territorios.Territory) -&gt; Swift.Bool"
+                  moduleName = "Territorios"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Jose/Library/Mobile%20Documents/com~apple~CloudDocs/Hacking%20w:%20Swift%20(SwiftUI)/Territorios/Territorios/Data/DatabaseManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "64"
+                  endingLineNumber = "64"
+                  offsetFromSymbolStart = "64">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<model type="com.apple.IDECoreDataModeler.DataModel" documentVersion="1.0" lastSavedToolsVersion="21513" systemVersion="22C65" minimumToolsVersion="Automatic" sourceLanguage="Swift" userDefinedModelVersionIdentifier="">
+    <entity name="House" representedClassName="House" syncable="YES" codeGenerationType="class">
+        <attribute name="language" optional="YES" attributeType="String"/>
+        <attribute name="number" attributeType="String"/>
+        <attribute name="phone" optional="YES" attributeType="String"/>
+        <attribute name="territory" attributeType="String"/>
+    </entity>
+    <entity name="Territory" representedClassName="Territory" syncable="YES" codeGenerationType="class">
+        <attribute name="address" attributeType="String"/>
+        <attribute name="congregation" attributeType="Integer 64" defaultValueString="0" usesScalarValueType="YES"/>
+        <attribute name="image" optional="YES" attributeType="String"/>
+        <attribute name="number" attributeType="Integer 32" defaultValueString="0" usesScalarValueType="YES"/>
+    </entity>
+    <entity name="Visit" representedClassName="Visit" syncable="YES" codeGenerationType="class">
+        <attribute name="date" attributeType="Integer 64" defaultValueString="0" usesScalarValueType="YES"/>
+        <attribute name="house" attributeType="String"/>
+        <attribute name="notes" attributeType="String"/>
+    </entity>
+</model>
